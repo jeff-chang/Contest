@@ -1,0 +1,10 @@
+data/
+data-bk/
+__pycache__/
+simulator/
+*.json
+*.h5
+*~
+*.pyc
+venv/
+.DS_Store
